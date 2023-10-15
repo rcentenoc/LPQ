@@ -1,4 +1,4 @@
-# LPQ
+
 # Lenguaje de programación Q
 
 Source code for the Interpreters course at Q.
