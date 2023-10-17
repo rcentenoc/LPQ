@@ -1,8 +1,8 @@
 from unittest import TestCase
 from typing import List
-from LPQ.lexer import Lexer
+from lpq.lexer import Lexer
 
-from LPQ.token import (
+from lpq.token import (
     Token,
     TokenType,
 )
