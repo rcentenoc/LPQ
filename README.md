@@ -27,8 +27,7 @@ To run the type checker and and the test suite run the following command from
 the root directory.
 
 ```bash
-mypy .
-nose2
+mypy . && nose2
 ```
 
 # Run the interpreter
